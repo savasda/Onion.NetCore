@@ -1,0 +1,13 @@
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Domain.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.csprojAssemblyReference.cache
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.AssemblyInfoInputs.cache
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.AssemblyInfo.cs
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Domain.Services.deps.json
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Domain.Services.dll
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Domain.Services.pdb
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Domain.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Domain.Services\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.csproj.CopyComplete
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.dll
+D:\EPEREMENTS\SmartHome\Domain.Services\obj\Debug\netcoreapp3.0\Domain.Services.pdb

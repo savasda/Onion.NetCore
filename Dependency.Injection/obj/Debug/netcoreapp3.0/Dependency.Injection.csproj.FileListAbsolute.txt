@@ -1,0 +1,17 @@
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Dependency.Injection.deps.json
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Dependency.Injection.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.AssemblyInfoInputs.cache
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.AssemblyInfo.cs
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.csprojAssemblyReference.cache
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Domain.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Domain.Services.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Infrastructure.Services.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Dependency.Injection.pdb
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Domain.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Domain.Services.pdb
+D:\EPEREMENTS\SmartHome\Dependency.Injection\bin\Debug\netcoreapp3.0\Infrastructure.Services.pdb
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.csproj.CopyComplete
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.dll
+D:\EPEREMENTS\SmartHome\Dependency.Injection\obj\Debug\netcoreapp3.0\Dependency.Injection.pdb

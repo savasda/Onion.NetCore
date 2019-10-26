@@ -1,0 +1,8 @@
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.deps.json
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.dll
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\obj\Debug\netcoreapp3.0\Infrastucture.Interfaces.AssemblyInfoInputs.cache
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\obj\Debug\netcoreapp3.0\Infrastucture.Interfaces.AssemblyInfo.cs
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\obj\Debug\netcoreapp3.0\Infrastucture.Interfaces.dll
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\obj\Debug\netcoreapp3.0\Infrastucture.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\InfrastuctureInterfaces\obj\Debug\netcoreapp3.0\Infrastucture.Interfaces.csprojAssemblyReference.cache

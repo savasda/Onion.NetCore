@@ -1,0 +1,11 @@
+D:\EPEREMENTS\SmartHome\InfrastructureServices\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.dll
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.AssemblyInfoInputs.cache
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.AssemblyInfo.cs
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.csprojAssemblyReference.cache
+D:\EPEREMENTS\SmartHome\InfrastructureServices\bin\Debug\netcoreapp3.0\Infrastructure.Services.deps.json
+D:\EPEREMENTS\SmartHome\InfrastructureServices\bin\Debug\netcoreapp3.0\Infrastructure.Services.dll
+D:\EPEREMENTS\SmartHome\InfrastructureServices\bin\Debug\netcoreapp3.0\Infrastructure.Services.pdb
+D:\EPEREMENTS\SmartHome\InfrastructureServices\bin\Debug\netcoreapp3.0\Infrastucture.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.csproj.CopyComplete
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.dll
+D:\EPEREMENTS\SmartHome\InfrastructureServices\obj\Debug\netcoreapp3.0\Infrastructure.Services.pdb

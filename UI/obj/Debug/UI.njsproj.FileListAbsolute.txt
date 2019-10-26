@@ -1,0 +1,2 @@
+D:\EPEREMENTS\SmartHome\UI\bin\Microsoft.NodejsTools.WebRole.dll
+D:\EPEREMENTS\SmartHome\UI\obj\Debug\UI.njsprojAssemblyReference.cache

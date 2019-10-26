@@ -1,0 +1,8 @@
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\bin\Debug\netcoreapp3.0\Domain.Interfaces.deps.json
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\bin\Debug\netcoreapp3.0\Domain.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\bin\Debug\netcoreapp3.0\Domain.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\obj\Debug\netcoreapp3.0\Domain.Interfaces.AssemblyInfoInputs.cache
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\obj\Debug\netcoreapp3.0\Domain.Interfaces.AssemblyInfo.cs
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\obj\Debug\netcoreapp3.0\Domain.Interfaces.dll
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\obj\Debug\netcoreapp3.0\Domain.Interfaces.pdb
+D:\EPEREMENTS\SmartHome\Domain.Interfaces\obj\Debug\netcoreapp3.0\Domain.Interfaces.csprojAssemblyReference.cache
